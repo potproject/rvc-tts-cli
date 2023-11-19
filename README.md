@@ -3,9 +3,9 @@ Based on [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com
 
 ## Usage
 
-hubert_base.pt File: assets/hubert/hubert_base.pt
-rmvpe.pt File: assets/rmvpe/rmvpe.pt or assets/rmvpe/rmvpe.onnx
-Default Model File: assets/weights/default.pth
+* hubert_base.pt File: assets/hubert/hubert_base.pt
+* rmvpe.pt File: assets/rmvpe/rmvpe.pt or assets/rmvpe/rmvpe.onnx
+* Default Model File: assets/weights/default.pth
 
 ```sh
 > python .\main.py --help
