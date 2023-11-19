@@ -1,0 +1,17 @@
+av==10.0.0
+fairseq==0.12.2
+faiss_cpu==1.7.3
+intel_extension_for_pytorch==2.1.0
+librosa==0.9.1
+numpy==1.23.5
+onnxruntime_gpu==1.16.0
+parselmouth==1.1.1
+pyopenjtalk==0.3.2
+python-dotenv==1.0.0
+pyworld==0.3.2
+scipy==1.11.4
+soundfile==0.12.1
+torch==1.13.0+cu117
+torch_directml==0.2.0.dev230426
+torchcrepe==0.0.20
+tqdm==4.66.1
